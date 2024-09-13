@@ -36,7 +36,7 @@
 
 ![image.png](images/13.png)
 
-Account 탭에서 Create Access Token 버튼을 클릭하여 API 토큰을 생성합니다.
+Settings 탭에서 Create Access Token 버튼을 클릭하여 API 토큰을 생성합니다.
 
 ![image.png](images/14.png)
 
