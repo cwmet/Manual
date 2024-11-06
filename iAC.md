@@ -44,13 +44,11 @@ SMS 입출금 알림 신청 방법은 은행마다 상이하므로, 직접 찾�
 ![image.png](images/image.png)
 - 설정했던 Comet iAC 단축어를 동작(자동화)로 설정합니다.
 
-![image.png](images/7.png)
-설정을 마친 단축어 (배경)를 한번 클릭하여 권한을 허용합니다.
-
 ![image.png](images/8.png)
 디스코드로 돌아가 `/설정 -> 충전 설정 -> 계좌이체` 에서
 "자동 충전 유형" 입력 값을 "IOS"로 설정 후 저장합니다.
 - IOS 자동충전이기에 하단의 PUSHBULLET API 토큰은 입력하지 않습니다.
+- 첫 충전 시 c0met.kr 연결 허용 팝업이 뜨게 됩니다. 허용해주세요.
 
 ![image.png](images/8.png)
 ## 자동충전이 작동하지 않을 경우 해결 방법
