@@ -11,4 +11,7 @@ Comet 서버의 우측 멤버 리스트에서 SHOP 봇의 프로필을 클릭합
 
 ![image](https://github.com/user-attachments/assets/0add6501-c812-4f30-a0cf-ff8ef6bf3af8)<br>
 ![image](https://github.com/user-attachments/assets/ba57ca59-4e96-4491-82a8-b38ecb0373e4)<br>
-서버에 초대한 후, /등록 명령어를 입력하여 구매하였을때 파일에 동봉된 라이센스 키를 입력합니다.<br>
+서버에 초대한 후, /등록 명령어를 입력하여 구매하였을때 파일에 동봉된 라이센스 키를 입력합니다.<br><br>
+
+라이센스 연장 시에도 같은 방법으로 구매하여 /등록 명령어에 입력할 경우 <br>
+기존 데이터는 유지되며 라이센스의 기간이 연장 처리됩니다. 
