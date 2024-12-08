@@ -1,2 +1,2 @@
 # Manual
-Comet iAC &amp; aAC Manual
+Comet Service Manual
