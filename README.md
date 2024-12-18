@@ -1,2 +1,0 @@
-# Manual
-Comet Service Manual
