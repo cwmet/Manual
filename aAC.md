@@ -29,7 +29,7 @@
 ![image.png](images/12.png)</br>
 [여기](https://www.pushbullet.com/#settings)를 클릭하여 웹 접속 후 설치 직후 로그인(가입)했던 계정으로 로그인합니다.</br></br>
 
-![image.png](images/13.png)</br>
+![image](https://github.com/user-attachments/assets/d0128ec0-6cf0-40fc-965a-32ac00de4b3d)</br>
 Settings 탭에서 Create Access Token 버튼을 클릭하여 API 토큰을 생성합니다.</br></br>
 
 ![image.png](images/14.png)</br>
