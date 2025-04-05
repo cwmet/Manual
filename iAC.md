@@ -25,7 +25,7 @@ SMS 입출금 알림 신청 방법은 은행마다 상이하므로, 직접 찾�
 앱스토어에서 “**단축어**” 앱을 설치합니다.</br></br>
 
 ![image.png](images/2.png)</br>
-[여기](https://www.icloud.com/shortcuts/32b36e847db74f0a842b5bc2c731f58e)를 클릭하여 단축어를 설치합니다.</br></br>
+[여기](https://www.icloud.com/shortcuts/eb5febcfd9514e4b885eccbd93854c28)를 클릭하여 단축어를 설치합니다.</br></br>
 
 ![Untitled](images/3.png)</br>
 단축어 입력창에 자동충전 토큰, 알림 여부를 설명대로 입력합니다.</br>
